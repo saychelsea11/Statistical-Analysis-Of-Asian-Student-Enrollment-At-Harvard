@@ -1,6 +1,6 @@
 # Title
 
-*Statistical analysis of Asian student enrollment at Harvard*
+*A study and statistical analysis of Asian student enrollment at Harvard*
 
 # Blog Post
 
@@ -8,7 +8,14 @@ http://thecraftofdata.com/2019/07/does-harvard-really-have-an-admissions-problem
 
 # Goal
 
+- To conduct a case study using statistical inference to determine if there is a bias against Asian students when it comes to admissions at Harvard. 
+
 # Approach 
 
 # Contents
+
+- Article links:
+- Images:
+- Jupyter notebook and results: 
+- 
 
