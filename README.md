@@ -18,5 +18,3 @@ http://thecraftofdata.com/2019/07/does-harvard-really-have-an-admissions-problem
 - Datasets: Contains a dataset from College Scorecard (US department of Education) with extensive admissions information on universities from across the U.S. The website provides data dictionaries, changelogs and reports to help navigate through the vast amount of data.
 - Images: Contains images capturing all the visualizations created during the analysis. 
 - Jupyter notebook and results: Contains the jupyter notebook for the analysis and a summary table for the analysis. 
-- 
-
